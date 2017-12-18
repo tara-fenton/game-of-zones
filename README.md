@@ -74,6 +74,18 @@ Let's revisit both games!
 - When all zones are green remove their backgrounds one by one, with a 1 second delay in between each, in the order that they were clicked
 >hint: Look at [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval)!
 
-## Submission
+## Test your code before submission!
 
-The assignment is due at 11:59PM tonight! As usual remember to git add, git commit, and git push to your repos. Create an issue ticket on the original repo. Remember to include a link to your repo and follow the [Homework Guide](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/homework-policy.md)!
+1. You can make your changes in main.js, console.log your variables, save your file then in Terminal run "node main.js".
+2. You can make an account here: https://repl.it/, and test your code using this online text editor.
+3. If you setup node as your buildpack in Sublime Text, you can do "CMD+B" to run your code in Sublime Text.
+
+## Homework Submission:
+
+* Homework is due at **11PM** tonight!
+* [Follow these instructions to submit your assignment](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/HOMEWORK.md)
+* [If you need help with your homework, check out the Student Resource Center!](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/SRC.md)
+
+## [An important note on plagiarism](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/PLAGIARISM.md)
+
+# Make sure to get some sleep! 
