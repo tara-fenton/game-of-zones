@@ -12,7 +12,7 @@ Before coding, look through both games and their notes. Be sure to spend at leas
 
 ## Completion
 
-There are two games below and a bonus section. Complete both games for full credit. We want to stress the importance of formatting and spacing your code neatly and consistently. At some point in time we have all written some pretty ugly looking code that didn't follow any convention, but now is a good chance to start tidying up our code. Please read through [Airbnb's style guide](https://github.com/airbnb/javascript).
+There are two games below and a bonus section. Complete both games for full credit. We want to stress the importance of formatting and spacing your code neatly and consistently. At some point in time we have all written some pretty ugly looking code that didn't follow any convention, but now is a good chance to start tidying up our code. Please read through [Airbnb's style guide](https://github.com/airbnb/javascript). Disreguard const and let for now.
 
 ## Assignment
 
@@ -83,9 +83,6 @@ Let's revisit both games!
 ## Homework Submission:
 
 * Homework is due at **11PM** tonight!
-* [Follow these instructions to submit your assignment](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/HOMEWORK.md)
-* [If you need help with your homework, check out the Student Resource Center!](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/SRC.md)
-
-## [An important note on plagiarism](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/PLAGIARISM.md)
+* If you need help with your homework, check out the Student Resource Center!
 
 # Make sure to get some sleep! 
