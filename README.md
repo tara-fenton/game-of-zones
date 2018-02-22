@@ -43,6 +43,8 @@ What should a user be able to do with the game?
 
 #### Game 2
 
+#### THIS IS OPTIONAL IF you attend the whiteboarding event tonight!
+
 Modify your previous game so that the zones need to be clicked in a particular order. Copy any code you might want to reuse from Game 1 into `starter2.js`, and in `index.html`, switch `starter2.js` to be connected and `starter1.js` to be commented out.
 
 1. Generate an array with the numbers `['zone-1', 'zone-2', 'zone-3', 'zone-4']` in a random order - you do not need some shuffling function, just randomize it by hand. This will determine the order in which you need to click the zones.
