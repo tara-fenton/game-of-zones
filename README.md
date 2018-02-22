@@ -48,6 +48,7 @@ Modify your previous game so that the zones need to be clicked in a particular o
 2. The zones start with no background color.
 3. When you hover over a zone it should turn green if it is the next one that needs to be clicked and turn red if it is not.
 4. When a correct zone is clicked it should stay green
+>HINT: You probably need to remove some event listeners ([mdn](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener))
 5. Clicking on an incorrect zone should do nothing.
 6. When all zones are green, log a statement of congratulations to the console!
 
