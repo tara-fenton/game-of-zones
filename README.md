@@ -23,6 +23,7 @@ What should a user be able to do with the game?
 1. When the mouse enters any of the zones change its background color to `green`
 2. When the mouse leaves a zone change its background color back
 3. When you click on a zone it locks its color to green.
+>HINT: You probably need to remove some event listeners ([mdn](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener))
 4. When all zones are checked green, log a statement of congratulations to the console!
 
 **Before coding anything, PSEUDOCODE out how to approach this game.** Here are some useful questions and notes for you:
