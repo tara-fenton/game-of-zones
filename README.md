@@ -43,7 +43,7 @@ What should a user be able to do with the game?
 
 #### Game 2
 
-#### THIS IS OPTIONAL IF you attend the whiteboarding event tonight!
+#### GAME 2 IS OPTIONAL IF you attend the whiteboarding event tonight!
 
 Modify your previous game so that the zones need to be clicked in a particular order. Copy any code you might want to reuse from Game 1 into `starter2.js`, and in `index.html`, switch `starter2.js` to be connected and `starter1.js` to be commented out.
 
